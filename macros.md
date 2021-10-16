@@ -19,7 +19,8 @@ end
 
 ```lua 
 EP_ENCRYPTCONSTANT(12345) 
-``` - numbers are allowed
+```
+- numbers are allowed
 
 ```lua
 local username = "jjthegamer"
