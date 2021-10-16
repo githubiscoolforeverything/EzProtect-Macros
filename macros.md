@@ -1,7 +1,7 @@
-MACROS:
-EP_ENCRYPTCONSTANT - encrypts a constant
-EP_CRASH - crashes the vm
-EP_EQ - prevents most eq hooking [beta]
+MACROS:\n
+EP_ENCRYPTCONSTANT - encrypts a constant\n
+EP_CRASH - crashes the vm\n
+EP_EQ - prevents most eq hooking [beta]\n
 
 Examples:
 ```lua
