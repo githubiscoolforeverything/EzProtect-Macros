@@ -33,14 +33,21 @@ end
 ```
 
 Incorrect Usages:
+
 EP_CRASH:
+
 EP_CRASH(true) - no arguments should be provided
 
 EP_ENCRYPTCONSTANT:
-EP_ENCRYPTCONSTANT(script.Parent) - there should only be one variable [note: i might make this work in a future update of ezprotect]
+
+EP_ENCRYPTCONSTANT(script.Parent)- there should only be one variable [note: i might make this work in a future update of ezprotect]
+
 EP_ENCRYPTCONSTANT("print") - no strings should be provided
 
 EP_EQ:
+
+```lua
 if EP_EQ(true) then - there is only one argument there must be 2 arguments
 return
 end
+```
