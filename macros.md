@@ -17,7 +17,9 @@ EP_CRASH()
 end
 ```
 
-```lua EP_ENCRYPTCONSTANT(12345) ``` - numbers are allowed
+```lua 
+EP_ENCRYPTCONSTANT(12345) 
+``` - numbers are allowed
 
 ```lua
 local username = "jjthegamer"
