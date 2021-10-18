@@ -6,7 +6,7 @@ EP_CRASH - crashes the vm
 
 EP_EQ - prevents most eq hooking [beta]
 
-Examples:
+***Examples:***
 ```lua
 local encryptedprint = EP_ENCRYPTCONSTANT(print)
 encryptedprint("hello")
