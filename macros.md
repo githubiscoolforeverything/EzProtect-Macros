@@ -1,4 +1,4 @@
-**MACROS:
+**MACROS:**
 
 EP_ENCRYPTCONSTANT - encrypts a constant
 
@@ -32,7 +32,7 @@ print("you are whitelisted!")
 end
 ```
 
-**Incorrect Usages:
+**Incorrect Usages:**
 
 EP_CRASH:
 
