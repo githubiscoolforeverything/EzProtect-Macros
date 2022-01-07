@@ -1,3 +1,4 @@
+rewrite in progress so most macros is outdated back when i worked with ironbrew
 ***MACROS:***
 
 EP_ENCRYPTCONSTANT - encrypts a constant
